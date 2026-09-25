@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "ahmed_productivity": {
+      "command": "D:\\productivity\\.venv\\Scripts\\python.exe",
+      "args": [
+        "D:\\productivity\\mcp_server.py"
+      ],
+      "env": {
+        "PYTHONPATH": "D:\\productivity"
+      }
+    }
+  }
+}

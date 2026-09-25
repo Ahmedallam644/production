@@ -1,0 +1,6 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+spark_url.txt
+chat_history.json
